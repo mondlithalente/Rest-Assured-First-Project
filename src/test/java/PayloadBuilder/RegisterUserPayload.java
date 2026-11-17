@@ -1,4 +1,4 @@
-package payloadBuilder;
+package PayloadBuilder;
 
 import org.json.simple.JSONObject;
 
